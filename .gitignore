@@ -1,1 +1,8 @@
 # this is a gitignore file
+
+<<<<<<< HEAD
+# ignore the env file
+.env
+=======
+.env
+>>>>>>> 209766c (initial)
